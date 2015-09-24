@@ -1,0 +1,12 @@
+98293559a64f754b4e19543d35e6a889 *DESCRIPTION
+6df721a5abda1883fb5f82a8cc6d1db3 *NAMESPACE
+105eb21a506ff14b02407d956f8b1831 *R/NostalgiR.R
+35c36e6ce642af82f2a131af469faa9e *man/nos.contour.Rd
+e06329c701fe92c20bb8eaab43c24ebf *man/nos.density.Rd
+20818b3d9e39a8192b0098797e843736 *man/nos.ecdf.Rd
+6c18780421e925ae68a2332979c98dd1 *man/nos.hist.Rd
+652311048be045351b0a8ec37cb681bf *man/nos.image.Rd
+106e0e7fdabacd798b98ec0a0ccfbc37 *man/nos.legend.Rd
+d4427f3d90ccb7da10f187ec290548f0 *man/nos.qqnorm.Rd
+c73a33a94e08453a645b203f030efb4e *man/nos.qqplot.Rd
+c37f3b2ee5814c08652c3b7b77cf5630 *man/nos.xyplot.Rd

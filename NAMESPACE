@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(txtplot)
+importFrom("grDevices", "contourLines")
+importFrom("graphics", "hist")
+importFrom("stats", "approx", "density", "lm", "ppoints", "predict","qnorm", "quantile", "sd")
